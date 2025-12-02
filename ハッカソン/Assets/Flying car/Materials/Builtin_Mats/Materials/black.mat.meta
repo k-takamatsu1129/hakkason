@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 710b10e0c3874c94ea9b38c4144e8f39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/Builtin_Mats/Materials/black.mat
+  uploadId: 747712

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14bdb8249e16ece45affbd876cbfd496
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/HDRP_Materials/settings/Mich-L_Foliage_Diffusion_Profile.asset
+  uploadId: 747712

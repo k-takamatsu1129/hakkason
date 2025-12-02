@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2e7bda1b3da17214c8bdeeb262f244f2
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Scripts/Mich-l.Runtime.asmdef
+  uploadId: 747712

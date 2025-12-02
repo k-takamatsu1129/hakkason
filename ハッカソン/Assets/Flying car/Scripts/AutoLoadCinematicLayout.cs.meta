@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 430c10c64620d7c469d0c0b208b5969d
+timeCreated: 1631818628
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Scripts/AutoLoadCinematicLayout.cs
+  uploadId: 747712

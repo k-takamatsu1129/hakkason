@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 945b63e3035f3a547a0c3fa59e609466
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/URP_Mats/URP_Materials/red light.mat
+  uploadId: 747712

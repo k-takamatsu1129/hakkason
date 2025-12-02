@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 190c35f815d493c43b0f6720127ffdfc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/HDRP_Background/Materials/M_gizLightDir_body.mat
+  uploadId: 747712

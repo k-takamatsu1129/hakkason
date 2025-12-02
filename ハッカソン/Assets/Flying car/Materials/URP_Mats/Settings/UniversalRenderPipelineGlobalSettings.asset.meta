@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be58f5a68b514da438a4bd03e1abcf7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/URP_Mats/Settings/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 747712

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 498d041a4f80f1e48b4d0c9601aa868c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/HDRP_Materials/settings/Mich-L_Scotch_Diffusion_Profile_2.asset
+  uploadId: 747712

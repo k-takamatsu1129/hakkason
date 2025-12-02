@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48c4f62c639c16646ba070544b034f35
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Scripts/Editor/Mich-l.Editor.asmdef
+  uploadId: 747712

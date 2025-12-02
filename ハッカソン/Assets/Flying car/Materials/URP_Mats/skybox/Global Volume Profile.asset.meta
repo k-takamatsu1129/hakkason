@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37e338dd384f6914983a04ce97a7461e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/URP_Mats/skybox/Global Volume Profile.asset
+  uploadId: 747712
