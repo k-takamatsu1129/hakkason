@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 54c186d056a9b3f48aff658a33a10d0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Scripts/CinematicHelpersWindow.cs
+  uploadId: 747712

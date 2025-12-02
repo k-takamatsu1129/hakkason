@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01667c723dcbc8440a76a08264ef462b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/URP_Mats/URP_Materials/Glass_URP 1.mat
+  uploadId: 747712

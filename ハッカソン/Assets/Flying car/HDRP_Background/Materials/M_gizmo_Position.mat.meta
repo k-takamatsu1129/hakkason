@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbf2184257192b14497535a40d6bb7c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/HDRP_Background/Materials/M_gizmo_Position.mat
+  uploadId: 747712

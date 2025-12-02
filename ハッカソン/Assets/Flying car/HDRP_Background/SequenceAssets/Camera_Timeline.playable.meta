@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4a09abb927d79794fbefc06a239e3826
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/HDRP_Background/SequenceAssets/Camera_Timeline.playable
+  uploadId: 747712

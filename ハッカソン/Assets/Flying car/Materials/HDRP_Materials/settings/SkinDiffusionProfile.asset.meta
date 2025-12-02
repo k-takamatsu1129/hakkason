@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1d09b2f0f5ab98419d49a50a7081b82
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/HDRP_Materials/settings/SkinDiffusionProfile.asset
+  uploadId: 747712

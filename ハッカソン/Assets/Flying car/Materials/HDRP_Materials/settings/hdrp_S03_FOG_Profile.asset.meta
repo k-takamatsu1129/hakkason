@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 880465aa48a620b458e5f9ae247a536b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/HDRP_Materials/settings/hdrp_S03_FOG_Profile.asset
+  uploadId: 747712

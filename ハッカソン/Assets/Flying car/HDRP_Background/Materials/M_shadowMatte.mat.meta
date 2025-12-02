@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12240f4f0ca7a9a408cbe55f1e933dfb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/HDRP_Background/Materials/M_shadowMatte.mat
+  uploadId: 747712

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c45fa3b364661f8479a1b7559d083112
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/HDRP_Background/SequenceAssets/Camera.prefab
+  uploadId: 747712

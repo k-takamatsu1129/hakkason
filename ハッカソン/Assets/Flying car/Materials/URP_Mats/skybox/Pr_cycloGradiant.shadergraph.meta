@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3d4f4b86720173943901b5dd221431d8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/URP_Mats/skybox/Pr_cycloGradiant.shadergraph
+  uploadId: 747712

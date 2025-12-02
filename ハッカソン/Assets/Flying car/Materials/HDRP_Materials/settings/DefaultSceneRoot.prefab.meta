@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d84a29a52c5787e4389abc939dfffc32
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/Materials/HDRP_Materials/settings/DefaultSceneRoot.prefab
+  uploadId: 747712

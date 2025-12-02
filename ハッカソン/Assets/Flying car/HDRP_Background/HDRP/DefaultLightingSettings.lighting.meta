@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35741ada20b8ad54883015467df62533
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315582
+  packageName: Sci-fi Flying Car (with interior)
+  packageVersion: 1.0
+  assetPath: Assets/Flying car/HDRP_Background/HDRP/DefaultLightingSettings.lighting
+  uploadId: 747712
