@@ -5,16 +5,16 @@ using UnityEngine.SceneManagement;
 
 namespace CinematicSampleUtilities
 {
-    public class CinematicHelpersWindow : EditorWindow
+    public class MyProjectCinematicWindow : EditorWindow
     {
         static bool frameOverlayToggle = false;
 
         // Add menu item named "My Window" to the Window menu
-        [MenuItem("Window/Cinematic" + "/Helpers", priority = 3005)]
+        [MenuItem("Window/Cinematic" + "/My Helpers", priority = 3005)]
         public static void ShowWindow()
         {
             //Show existing window instance. If one doesn't exist, make one.
-            EditorWindow.GetWindow(typeof(CinematicHelpersWindow), false, "Cinematic Helpers");
+            EditorWindow.GetWindow(typeof(MyProjectCinematicWindow), false, "Cinematic Helpers");
         }
 
         void OnGUI()
