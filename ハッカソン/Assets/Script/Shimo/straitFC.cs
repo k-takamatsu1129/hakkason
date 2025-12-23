@@ -1,0 +1,30 @@
+using System.Collections;
+using UnityEngine;
+
+public class straitFC : MonoBehaviour
+{
+    public GameObject prefab;        // ê∂ê¨Ç∑ÇÈPrefab
+    public float minInterval = 3f;    // ç≈è¨ê∂ê¨ä‘äu
+    public float maxInterval = 10f;    // ç≈ëÂê∂ê¨ä‘äu
+
+    void Start()
+    {
+        StartCoroutine(SpawnRoutine());
+    }
+
+    IEnumerator SpawnRoutine()
+    {
+        while (true)
+        {
+            // ÉâÉìÉ_ÉÄÇ»ë“Çøéûä‘
+            float waitTime = Random.Range(minInterval, maxInterval);
+            yield return new WaitForSeconds(waitTime);
+
+
+            Vector3 position = this.gameObject.transform.position;
+            position.y = ShimoDB.Instance.getkoudo();
+
+            Instantiate(prefab, position, Quaternion.identity);
+        }
+    }
+}

@@ -8,9 +8,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/anascene.unity
     guid: e72e9b605ca8c3442abafbc7d0fc23e9
+  - enabled: 1
+    path: Assets/Scenes/shimo/shimokouhei.unity
+    guid: 01b7c92182e0b8d419fba6e5b9e15231
+  - enabled: 1
+    path: Assets/Scenes/shimo/shimoFlyingCar.unity
+    guid: 222d2f1d79499534e8f9a40701f60d93
+  - enabled: 1
+    path: Assets/Scenes/shimo/shimoTrack.unity
+    guid: e0ba272beb1e62a4f96d17285f4c21ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
